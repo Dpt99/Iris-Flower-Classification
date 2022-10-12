@@ -9,3 +9,5 @@ Machine Learning Algorithms used:
 
 3.SVC
 
+## Conclusion:
+Based on analysis, I can conclude that SVM with C=1 and kernel='rbf' is the best model for solving my problem of iris flower classification
